@@ -1,0 +1,14 @@
+c:\vscode\jsonConvertor\JsonConvertor\bin\Debug\net8.0\JsonConvertor.exe
+c:\vscode\jsonConvertor\JsonConvertor\bin\Debug\net8.0\JsonConvertor.deps.json
+c:\vscode\jsonConvertor\JsonConvertor\bin\Debug\net8.0\JsonConvertor.runtimeconfig.json
+c:\vscode\jsonConvertor\JsonConvertor\bin\Debug\net8.0\JsonConvertor.dll
+c:\vscode\jsonConvertor\JsonConvertor\bin\Debug\net8.0\JsonConvertor.pdb
+c:\vscode\jsonConvertor\JsonConvertor\obj\Debug\net8.0\JsonConvertor.GeneratedMSBuildEditorConfig.editorconfig
+c:\vscode\jsonConvertor\JsonConvertor\obj\Debug\net8.0\JsonConvertor.AssemblyInfoInputs.cache
+c:\vscode\jsonConvertor\JsonConvertor\obj\Debug\net8.0\JsonConvertor.AssemblyInfo.cs
+c:\vscode\jsonConvertor\JsonConvertor\obj\Debug\net8.0\JsonConvertor.csproj.CoreCompileInputs.cache
+c:\vscode\jsonConvertor\JsonConvertor\obj\Debug\net8.0\JsonConvertor.dll
+c:\vscode\jsonConvertor\JsonConvertor\obj\Debug\net8.0\refint\JsonConvertor.dll
+c:\vscode\jsonConvertor\JsonConvertor\obj\Debug\net8.0\JsonConvertor.pdb
+c:\vscode\jsonConvertor\JsonConvertor\obj\Debug\net8.0\JsonConvertor.genruntimeconfig.cache
+c:\vscode\jsonConvertor\JsonConvertor\obj\Debug\net8.0\ref\JsonConvertor.dll
